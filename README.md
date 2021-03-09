@@ -19,7 +19,9 @@ için 4’er adet özellik (varyans, çarpıklık, basıklık, entropi) bilgisi 
 (tür) hazır olarak verilmektedir. Tablo 1’de 6 tanesine yer verilmiştir. Elimizde toplam 1372 
 adet örneğe ilişkin veriler bulunmaktadır. Bu verileri kullanarak, görüntünün iki farklı türden 
 hangisine ait olduğunu bulduran bir algoritmanın yazılması istenmektedir. Görüntü yerine 
-görüntü öznitelikleri kullanılarak işlemler gerçekleştirilecektir. ![image](https://user-images.githubusercontent.com/44711182/110475154-93330480-80f1-11eb-8d43-c98b8263218f.png)
+görüntü öznitelikleri kullanılarak işlemler gerçekleştirilecektir.
+
+![image](https://user-images.githubusercontent.com/44711182/110475154-93330480-80f1-11eb-8d43-c98b8263218f.png)
 
 a) kNN ile sınıflandırma: Bulduğumuz ancak türünü bilmediğimiz bir banknotun hangi türe 
 ait olduğunu tespit eden algoritmayı (k en yakın komşu yöntemi) yazınız (hazır kNN
