@@ -2,6 +2,7 @@
  CLASSIFICATION USING K-NEAREST NEIGHBORS (KNN) ALGORITHM. This project is for classifying banknotes using the KNN algorithm.  
  CLASSIFICATION USING THE NEAREST NEIGHBORS (KNN) ALGORITHM CLASSIFICATION ACCORDING TO THE NEAREST NEIGHBOR METHOD
 There are various features extracted from real and fake banknote image samples. The image given through this information can be classified as real / fake. For each sample, 4 features (variance, skewness, kurtosis, entropy) information and whether real money (type) are readily available. We have data on a total of 1372 samples. Using this data, it is desirable to write an algorithm that finds out which of the two different types of images the image belongs to. Operations will be performed using image attributes instead of images.
+
 a) Classification with kNN: Write down the algorithm (k nearest neighbor method) that determines which type a banknote belongs to. Write the kNN algorithm yourself, which determines which class (real (1) / fake (0)) it belongs to by taking the value of k as input for all properties of a user-entered banknote.
 
 b) Banknote classification: Take the k value of the kNN algorithm you wrote as input and the 4 properties of a user-entered banknote as input, and list the properties, distances and classes of the nearest k banknotes on the screen as a table. Using the dataset whose connection is given on the previous page, estimate the type of the banknote with the kNN method and print it on the screen.
