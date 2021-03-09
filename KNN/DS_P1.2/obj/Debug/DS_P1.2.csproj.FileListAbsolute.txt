@@ -1,0 +1,27 @@
+C:\Users\sabri\source\repos\DS_P1.2\DS_P1.2\bin\Debug\DS_P1.2.exe.config
+C:\Users\sabri\source\repos\DS_P1.2\DS_P1.2\bin\Debug\DS_P1.2.exe
+C:\Users\sabri\source\repos\DS_P1.2\DS_P1.2\bin\Debug\DS_P1.2.pdb
+C:\Users\sabri\source\repos\DS_P1.2\DS_P1.2\obj\Debug\DS_P1.2.csprojAssemblyReference.cache
+C:\Users\sabri\source\repos\DS_P1.2\DS_P1.2\obj\Debug\DS_P1.2.csproj.CoreCompileInputs.cache
+C:\Users\sabri\source\repos\DS_P1.2\DS_P1.2\obj\Debug\DS_P1.2.exe
+C:\Users\sabri\source\repos\DS_P1.2\DS_P1.2\obj\Debug\DS_P1.2.pdb
+C:\Users\serdar\Desktop\DS_P1.2\DS_P1.2\bin\Debug\DS_P1.2.exe.config
+C:\Users\serdar\Desktop\DS_P1.2\DS_P1.2\bin\Debug\DS_P1.2.exe
+C:\Users\serdar\Desktop\DS_P1.2\DS_P1.2\bin\Debug\DS_P1.2.pdb
+C:\Users\serdar\Desktop\DS_P1.2\DS_P1.2\obj\Debug\DS_P1.2.csprojAssemblyReference.cache
+C:\Users\serdar\Desktop\DS_P1.2\DS_P1.2\obj\Debug\DS_P1.2.exe
+C:\Users\serdar\Desktop\DS_P1.2\DS_P1.2\obj\Debug\DS_P1.2.pdb
+C:\Users\sabri\Desktop\DS_P1.2\DS_P1.2\bin\Debug\DS_P1.2.exe.config
+C:\Users\sabri\Desktop\DS_P1.2\DS_P1.2\bin\Debug\DS_P1.2.exe
+C:\Users\sabri\Desktop\DS_P1.2\DS_P1.2\bin\Debug\DS_P1.2.pdb
+C:\Users\sabri\Desktop\DS_P1.2\DS_P1.2\obj\Debug\DS_P1.2.csprojAssemblyReference.cache
+C:\Users\sabri\Desktop\DS_P1.2\DS_P1.2\obj\Debug\DS_P1.2.csproj.CoreCompileInputs.cache
+C:\Users\sabri\Desktop\DS_P1.2\DS_P1.2\obj\Debug\DS_P1.2.exe
+C:\Users\sabri\Desktop\DS_P1.2\DS_P1.2\obj\Debug\DS_P1.2.pdb
+E:\Program Files\Visual CODES\DS_P1.2\DS_P1.2\bin\Debug\DS_P1.2.exe.config
+E:\Program Files\Visual CODES\DS_P1.2\DS_P1.2\bin\Debug\DS_P1.2.exe
+E:\Program Files\Visual CODES\DS_P1.2\DS_P1.2\bin\Debug\DS_P1.2.pdb
+E:\Program Files\Visual CODES\DS_P1.2\DS_P1.2\obj\Debug\DS_P1.2.csprojAssemblyReference.cache
+E:\Program Files\Visual CODES\DS_P1.2\DS_P1.2\obj\Debug\DS_P1.2.csproj.CoreCompileInputs.cache
+E:\Program Files\Visual CODES\DS_P1.2\DS_P1.2\obj\Debug\DS_P1.2.exe
+E:\Program Files\Visual CODES\DS_P1.2\DS_P1.2\obj\Debug\DS_P1.2.pdb
