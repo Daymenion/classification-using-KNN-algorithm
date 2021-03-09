@@ -10,7 +10,7 @@ c) Measuring Success: Separate 100 data at the end of each banknote sample in th
 
 d) Listing: Type the code that displays the values in the data set in the memory.
 
-Turkish (
+Turkish description (
 CLASSIFICATION USING K-NEAREST NEIGHBORS (KNN) ALGORITHM 
 K EN YAKIN KOMŞU YÖNTEMİ İLE SINIFLANDIRMA 
 Gerçek ve sahte banknot görüntü örneklerinden çıkarılan çeşitli öznitelikler bulunmaktadır. Bu 
